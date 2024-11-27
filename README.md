@@ -16,7 +16,7 @@
 
 |       🍏       |              ViewController               |  
 | :------------: | :----------------------------------------|
-| Tela | <img src="https://github.com/JoaoPedroVolponi/Assets/blob/main/alterando-nome-app/viewController.png" width="220px;" height="400" />
+| Tela | <img src="https://github.com/JoaoPedroVolponi/Assets/blob/main/swift/alterando-nome-app/viewController.png" width="220px;" height="400" />
 
 ## ✨ Autor
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
